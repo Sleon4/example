@@ -1,0 +1,11 @@
+<?php
+
+// VARIABLES
+
+// FUNCIONES
+
+// ARRAYS
+
+// OBJETOS
+
+// CICLOS
